@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66254" started-at="2015-02-12T18:21:01Z" finished-at="2015-02-12T18:22:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66254" started-at="2015-02-12T18:21:01Z" finished-at="2015-02-12T18:22:07Z">
+      <class name="com.Prowareness.CompleteTestCase">
+        <test-method status="PASS" signature="name()[pri:0, instance:com.Prowareness.CompleteTestCase@4cdbe50f]" name="name" is-config="true" duration-ms="53014" started-at="2015-02-12T23:51:01Z" finished-at="2015-02-12T23:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Prowareness.CompleteTestCase@4cdbe50f]" name="login" duration-ms="40" started-at="2015-02-12T23:51:54Z" finished-at="2015-02-12T23:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="NavigateToTaskBoard()[pri:0, instance:com.Prowareness.CompleteTestCase@4cdbe50f]" name="NavigateToTaskBoard" duration-ms="5490" started-at="2015-02-12T23:51:54Z" finished-at="2015-02-12T23:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToTaskBoard -->
+        <test-method status="PASS" signature="DragToInProcess()[pri:0, instance:com.Prowareness.CompleteTestCase@4cdbe50f]" name="DragToInProcess" duration-ms="0" started-at="2015-02-12T23:52:00Z" finished-at="2015-02-12T23:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragToInProcess -->
+        <test-method status="PASS" signature="DragToDone()[pri:0, instance:com.Prowareness.CompleteTestCase@4cdbe50f]" name="DragToDone" duration-ms="7691" started-at="2015-02-12T23:52:00Z" finished-at="2015-02-12T23:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragToDone -->
+      </class> <!-- com.Prowareness.CompleteTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
