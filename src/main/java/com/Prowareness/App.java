@@ -11,5 +11,6 @@ public class App {
 
 		System.out.println("ABC");
 		System.out.println("1");
+		System.out.println("3rd Test");
 	}
 }
